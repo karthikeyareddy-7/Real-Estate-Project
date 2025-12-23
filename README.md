@@ -1,7 +1,3 @@
-# Real-Estate-Project
-Sure! Here's a detailed **README-style explanation** of your R project. I’ll structure it as if it were for a GitHub repository, explaining the purpose, workflow, and methodology step by step.
-
----
 
 # NYC Manhattan Real Estate Sales Analysis and Prediction
 
@@ -183,8 +179,4 @@ The project can be broken down into **five main steps**:
 
 This project demonstrates a **complete workflow for real estate price prediction**, from data cleaning to model evaluation. It can be extended to other NYC boroughs or combined with temporal data for **time-series forecasting of property prices**.
 
----
 
-If you want, I can also **create a polished GitHub README markdown file** with headings, badges, and images of plots ready to paste directly. This would make it look very professional.
-
-Do you want me to do that next?
